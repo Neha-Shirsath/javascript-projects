@@ -13,7 +13,7 @@ A simple and responsive To-Do List application built with **HTML, CSS, and JavaS
 * JavaScript
 
 ## Live Demo
-https://todolist-neha-e722.vercel.app
+https://to-do-list-neha-e722.vercel.app/
 
 ## Run Locally
 Clone the repository and open `index.html` in your browser.
